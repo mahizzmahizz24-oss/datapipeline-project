@@ -33,3 +33,4 @@ Overall, this task demonstrates how to efficiently preprocess data using a struc
 
 output of the task :
 
+<img width="866" height="482" alt="Image" src="https://github.com/user-attachments/assets/f3e0a1c4-e917-41c1-ac30-c42e35367c0b" />
